@@ -1,6 +1,4 @@
-Here's the updated README file for your GitHub repository:
 
----
 
 # Number Recognition from Images 🔢
 
